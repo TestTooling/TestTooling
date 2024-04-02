@@ -2,4 +2,5 @@
 
 ---
 
-Joint projects of our team
+Joint projects of our team.
+
