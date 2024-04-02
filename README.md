@@ -1,2 +1,5 @@
 # SWTooling
-testowanko
+
+---
+
+Joint projects of our team
